@@ -1,11 +1,11 @@
 {
-  "name": "Tanmai Naik portfolio",
+  "name": "Tanmai_Naik_portfolio",
   "version": "0.1.0",
   "description": "My portfolio",
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "https://naiktanmai@bitbucket.org/naiktanmai/webpack-express"
+    "url": "https://github.com/naiktanmai/naiktanmai.github.io"
   },
   "keywords": [
     "express",
@@ -15,7 +15,7 @@
   "author": "Tanmai Naik",
   "license": "MIT",
   "bugs": {
-    "url": "https://naiktanmai@bitbucket.org/naiktanmai/webpack-express/issues"
+    "url": "https://github.com/naiktanmai/naiktanmai.github.io.git/issues"
   },
   "scripts": {
     "test": "",
